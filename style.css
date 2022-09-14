@@ -1,0 +1,8 @@
+.sub{
+  color: rgb(255, 104, 104);
+  font-weight: bold;
+}
+
+.sub:hover{
+  color: red;
+}
